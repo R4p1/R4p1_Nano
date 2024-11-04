@@ -24,4 +24,4 @@
 - ["R4p1"]("https://github.com/R4p1")
 
 ## License
-- Copyright (c) R4p1
+- Copyright-free

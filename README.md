@@ -21,7 +21,7 @@
 - ["Reference Site Name"]("Reference URL")
 
 ## Author
-- ["R4p1"]("Your GitHub, Twitter, etc... Account URL")
+- ["R4p1"]("https://github.com/R4p1")
 
 ## License
 - Copyright (c) R4p1

@@ -24,4 +24,4 @@
 - ["Your Name"]("Your GitHub, Twitter, etc... Account URL")
 
 ## License
-- Copyright (c) 2023 東京工科大学 ProjectEV
+- Copyright (c) R4p1

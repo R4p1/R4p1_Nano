@@ -1,18 +1,18 @@
 # "Repository name"
 
 ## Overview
-- "This Repository Overview"
+- "Arduino_Nano互換機"
 
 ## Requirement
 ### Development
-- "Development Tool Name"
+- "KiCad8.0"
 ### Boards
 - "Platform Name, Board Name, etc..."
 ### Libraries
 - "Library Name and Version used in this repository"
 
 ## Usage
-- "How to Use, SIMPLE Explanation"
+- "Arduino_Nanoの互換機として使用"
 
 ## Features
 - "Detailed Description"
@@ -21,7 +21,7 @@
 - ["Reference Site Name"]("Reference URL")
 
 ## Author
-- ["Your Name"]("Your GitHub, Twitter, etc... Account URL")
+- ["R4p1"]("Your GitHub, Twitter, etc... Account URL")
 
 ## License
 - Copyright (c) R4p1

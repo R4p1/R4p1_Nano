@@ -1,4 +1,4 @@
-# "Repository name"
+# "R4p1_Nano"
 
 ## Overview
 - "Arduino_Nano互換機"

@@ -1,18 +1,18 @@
-# "R4p1_Nano"
+# R4p1_Nano
 
 ## Overview
-- "Arduino_Nano互換機"
+- Arduino_Nano互換機
 
 ## Requirement
 ### Development
-- "KiCad8.0"
+- KiCad8.0
 ### Boards
 - "Platform Name, Board Name, etc..."
 ### Libraries
 - "Library Name and Version used in this repository"
 
 ## Usage
-- "Arduino_Nanoの互換機として使用"
+- Arduino_Nanoの互換機として使用
 
 ## Features
 - "Detailed Description"
@@ -21,7 +21,7 @@
 - ["Reference Site Name"]("Reference URL")
 
 ## Author
-- ["R4p1"]("https://github.com/R4p1")
+- [R4p1](https://github.com/R4p1)
 
 ## License
-- Copyright-free
+- (C) 2024 R4p1

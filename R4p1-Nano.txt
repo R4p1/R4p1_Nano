@@ -1,0 +1,77 @@
+<ATMEGA328P-AU>
+Manufacturer : Microchip Technology/Atmel Corporation
+
+
+<Chip LED>
+Spec : Red 1608
+Model number : OSHR1608C1A
+Manufacturer : OptoSupply
+
+Spec : Green 1608
+Model number : OSTG1608C1A
+Manufacturer : OptoSupply
+
+Spec : Yellow 1608
+Model number : OSYL1608C1A
+Manufacturer : OptoSupply
+
+
+<USB Type-C Connector>
+Model number : 5077CR-16-SMC2-BK-TR
+Manufacturer : Neltron Industrial Co.Ltd.
+
+
+<Multilayer Ceramic Chip Capacitor(MLCC)>
+Spec : 4.7 uF, 50 V, 2012
+Model number : GRM21BB31H475KE51
+Manufacturer : muRata
+
+Spec : 1 uF, 25 V, 1608
+Model number : GRM188R71E105KA12
+Manufacturer : muRata
+
+Spec : 0.1 uF, 50 V, 1608
+Model number : GCM188L81H104K57
+Manufacturer : muRata
+
+
+<Ceramic Resonator>
+Spec : 16 MHz
+Model number : CSTNE16M0V530000R0
+Manufacturer : muRata
+
+
+<Resettable Fuse>
+Spec : 0.5 A, 1 A, 13.2 V
+Model number : MF-NSMF050-2
+Manufacturer : Bourns
+
+
+<USB Serial Conversion IC>
+Model number : FT232RNL
+Manufacturer : Future Technology Devices Internal Ltd(FTDI)
+
+
+<Voltage Regulator>
+Spec : 5 V, 800 mA
+Model number : LD1117S50
+Manufacturer : STMicroelectronics
+
+
+<Schottky Barrier Diode>
+Spec : 30 V, 2 A
+Model number : CUHS20S30
+Manufacturer : TOSHIBA
+
+
+<Chip Resistor>
+1 k Ohm, 1608
+5.1k Ohm, 1608
+
+
+<Pin Header>
+Spec : 2.54 mm pitch
+
+
+
+

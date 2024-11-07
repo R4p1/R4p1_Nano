@@ -1,8 +1,7 @@
 # R4p1_Nano
 
 ## Overview
-- Arduino_Nano互換機
-
+- Arduino Nano Compatible
 ## Requirement
 ### Development
 - KiCad8.0
@@ -12,7 +11,7 @@
 - "Library Name and Version used in this repository"
 
 ## Usage
-- Arduino_Nanoの互換機として使用
+- Use as Arduino Nano compatible
 
 ## Features
 - "Detailed Description"
